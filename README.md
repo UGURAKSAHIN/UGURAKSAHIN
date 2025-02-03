@@ -1,5 +1,5 @@
 - 👋 Hi, I’m UGUR AKSAHIN
-- 👀 I’m interested in Software Enginneering, Artificial Intelligence, Power Electronics
-- 🌱 I’m currently learning C# and ASP.Net Core MVC
-- 💞️ I’m looking to collaborate on research and development center
+- 👀 I’m interested in Software Test Enginneering, Artificial Intelligence, Power Electronics
+- 🌱 I’m currently taking test automation training
+- 💞️ I’m looking to collaborate on research and development center or startup companies
 - 📫 How to reach me from uguraksahin1903@gmail.com
