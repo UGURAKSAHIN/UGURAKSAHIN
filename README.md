@@ -1,30 +1,34 @@
-👋 Hi, I'm Uğur Akşahin!
+👋 Hi, I'm Uğur Akşahin
 
-🎓 Electrical and Electronics Engineer | Aspiring Software Engineer
-🚀 Passionate about building innovative and impactful software solutions
+🎓 Electrical & Electronics Engineer | 💻 Aspiring Software Engineer
 
-🚀 About Me:
+🚀 About Me
 
-    💻 Currently developing an e-commerce project using Java.
+🔨 Currently working on an e-commerce project using Java.
 
-    📍 Passionate about creative problem-solving, innovative development, and exploring new technologies.
+💡 Passionate about creative problem-solving and building impactful applications.
 
-    🎯 Always seeking challenging and impactful projects that push the limits of my skills.
+🌱 Continuously exploring backend development, system design, and new technologies.
 
-🔍 Internship Experiences:
+🛠️ Tech Stack
 
-    İSBAK Informatics & ASİS Automation:
+Languages: Java, Python, C, C++, JavaScript
 
-        Observed production processes closely.
+Backend: Spring Boot (learning), Hibernate
 
-        Actively contributed to software development projects.
+Tools & Platforms: Git, GitHub, MySQL, IntelliJ IDEA, Eclipse
 
-        Earned recognition for my innovative thinking and strong problem-solving skills.
+📌 Featured Projects
 
-🌱 Skills & Technologies:
+🛒 E-Commerce App (Java) – [link once uploaded]
 
-    Programming Languages: Java, Python, C, C++, C#
+⚙️ PID Ball Balancing System (Graduation Project) – Arduino-based real-time control
 
-    Fields of Interest: Software Engineering, Electronics Engineering, Solution-Oriented Projects, Artificial Intelligence
+📊 Data Processing Tools in Python (scripts for automation & analysis)
 
-    Additional Knowledge: Algorithms, System Design, Process Optimization
+📫 Connect with Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/uguraksahin
+💻 Github: https://www.github.com/UGURAKSAHIN
+✉️E-Mail: uguraksahin1903@gmail.com
+
