@@ -1,12 +1,9 @@
-👋 Hi, My name is Uğur Akşahin
 
 🎓 Electrical & Electronics Engineer | 💻 Aspiring Software Engineer
 
 🚀 About Me
 
-💡 Passionate about creative problem-solving and building impactful applications.
-
-🌱 Continuously exploring backend development, system design, and new technologies.
+I graduated from Electric-Electronic Engineering and I work in software development, particularly on **Backend Development** and **R&D-focused software projects**. I have experience in system analysis, error detection, data processing, and performance-oriented solution development. My goal is to develop robust, scalable, and sustainable software solutions.
 
 🛠️ Tech Stack
 
@@ -16,7 +13,14 @@ Database Tools: SQL, MySQL
 
 Backend: Spring Boot, Hibernate
 
-Tools & Platforms: Git, GitHub, IntelliJ IDEA, Eclipse, Visual Studio Code
+Tools & Platforms: Git, GitHub, IntelliJ IDEA, Eclipse, Visual Studio Code, Linux(CLI, server environment)
+
+## Working Aproaches
+
+-Object Oriented Programming
+-Layered architecture
+-Clean code and documentation principles
+-Test and Quality oriented development
 
 📌 Featured Projects
 
