@@ -1,10 +1,8 @@
-👋 Hi, I'm Uğur Akşahin
+👋 Hi, My name is Uğur Akşahin
 
 🎓 Electrical & Electronics Engineer | 💻 Aspiring Software Engineer
 
 🚀 About Me
-
-🔨 Currently working on an e-commerce project using Java.
 
 💡 Passionate about creative problem-solving and building impactful applications.
 
@@ -14,9 +12,11 @@
 
 Languages: Java, Python, C, C++, JavaScript
 
-Backend: Spring Boot (learning), Hibernate
+Database Tools: SQL, MySQL
 
-Tools & Platforms: Git, GitHub, MySQL, IntelliJ IDEA, Eclipse
+Backend: Spring Boot, Hibernate
+
+Tools & Platforms: Git, GitHub, IntelliJ IDEA, Eclipse, Visual Studio Code
 
 📌 Featured Projects
 
