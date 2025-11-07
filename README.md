@@ -1,11 +1,9 @@
 
-🎓 Electrical & Electronics Engineer | 💻 Aspiring Software Engineer
-
-🚀 About Me
+## About Me
 
 I graduated from Electric-Electronic Engineering and I work in software development, particularly on **Backend Development** and **R&D-focused software projects**. I have experience in system analysis, error detection, data processing, and performance-oriented solution development. My goal is to develop robust, scalable, and sustainable software solutions.
 
-🛠️ Tech Stack
+## Tech Stack
 
 Languages: Java, Python, C, C++, JavaScript
 
@@ -33,7 +31,7 @@ Tools & Platforms: Git, GitHub, IntelliJ IDEA, Eclipse, Visual Studio Code, Linu
 
 📊 Data Processing Tools in Python (scripts for automation & analysis)
 
-📫 Connect with Me
+## Connect with Me
 
 🔗 LinkedIn: https://www.linkedin.com/in/uguraksahin
 💻 Github: https://www.github.com/UGURAKSAHIN
