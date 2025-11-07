@@ -18,11 +18,14 @@ Tools & Platforms: Git, GitHub, IntelliJ IDEA, Eclipse, Visual Studio Code, Linu
 ## Working Aproaches
 
 -Object Oriented Programming
+
 -Layered architecture
+
 -Clean code and documentation principles
+
 -Test and Quality oriented development
 
-📌 Featured Projects
+## Featured Projects
 
 🛒 E-Commerce App (Java) – [link once uploaded]
 
