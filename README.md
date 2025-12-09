@@ -49,7 +49,7 @@ A modular, extensible backend architecture for e-commerce platforms.
 **Features:** JWT Auth, Product CRUD, Orders, Payments, Category Management  
 📌 *Turning into a SaaS-ready backend service*
 
-➡️ Repo: *Soon*  
+➡️ Repo: https://github.com/UGURAKSAHIN/E-Commerce.Application
 ➡️ Live API: *Soon*
 
 ---
