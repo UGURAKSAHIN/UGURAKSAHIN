@@ -1,37 +1,75 @@
+👋 Hi, I'm Uğur Akşahin</h1>
+<h3 align="center">Software Developer | QA Engineer | Backend Enthusiast</h3>
 
-## 👨‍💻 About Me
+<p align="center">
+  <a href="mailto:uguraksahin1903@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/uguraksahin">💼 LinkedIn</a> •
+  <a href="https://github.com/UGURAKSAHIN">🌐 GitHub</a>
+</p>
 
-I graduated in **Electrical and Electronics Engineering** and currently focus on **Software Development**, especially **Backend Development** and **R&D-oriented projects**. I have experience in system analysis, fault detection, data processing, and performance-focused solution design. My goal is to build **robust, scalable, and maintainable** software systems.
+---
 
-## 🧰 Tech Stack
+## 🚀 About Me
+- 🎓 Electrical & Electronics Engineering Graduate  
+- 🔍 Focusing on **Backend Development, QA Automation, and R&D software projects**  
+- 💡 Passionate about clean architecture, scalable systems, and real-world product development  
+- 🌍 Career goal: Build impactful software products and work in international tech teams  
+- 🇹🇷 Currently based in Istanbul, open to **global opportunities**
 
-**Languages:**  
-Java, Python, C, C++, JavaScript
+---
 
-**Backend Frameworks:**  
-Spring Boot, Hibernate
+## 🛠️ Tech Stack
 
-**Databases:**  
-SQL, MySQL
+### 💻 Programming & Backend
+- **Java**, Spring Boot, Hibernate  
+- **Python**, Flask, FastAPI  
+- **JavaScript**, Node.js  
+- SQL (MySQL, PostgreSQL), MongoDB
 
-**Tools & Platforms:**  
-Git, GitHub, IntelliJ IDEA, Eclipse, VS Code, Linux (CLI & Server Environments)
+### 🎨 Frontend
+- React.js, TailwindCSS, Bootstrap  
+- Axios, React Router, i18n
 
-## ⚙️ Working Approaches
+### 🧪 QA & Testing
+- Selenium, JUnit, Postman  
+- ISTQB Foundation (Preparing)
 
-- Object-Oriented Programming (OOP)
-- Layered Architecture (N-Tier Design)
-- Clean Code & Clear Documentation Practices
-- Test and Quality-Oriented Development
+### ⚙️ DevOps & Tools
+- Git, GitHub Actions  
+- Docker  
+- Postman, Swagger  
+- Linux (Ubuntu)
 
-## 🚀 Featured Projects
+---
 
-**E-Commerce Backend (Java)** | Product, order, and user management with authentication and business-layer architecture. | Java, Spring Boot, JWT, MySQL |
-**PID Ball Balancing System** *(Graduation Project)* | Real-time PID control on Arduino to stabilize a ball on a platform. | Arduino, Servo, Sensor Integration |
+## 🚧 Featured Projects (Productized)
 
-## 📫 Connect with Me
+### 🔹 **E-Commerce Backend (Java + Spring Boot)**
+A modular, extensible backend architecture for e-commerce platforms.  
+**Features:** JWT Auth, Product CRUD, Orders, Payments, Category Management  
+📌 *Turning into a SaaS-ready backend service*
 
-- **LinkedIn:** https://www.linkedin.com/in/uguraksahin  
-- **GitHub:** https://www.github.com/UGURAKSAHIN  
-- **E-Mail:** uguraksahin1903@gmail.com
+➡️ Repo: *Soon*  
+➡️ Live API: *Soon*
+
+---
+
+### 🔹 **PID-Based Ball Balancer (Graduation Project)**
+Designed and implemented a PID-controlled hardware system using Arduino to stabilize a rolling ball.
+
+📌 Demonstrates control systems + embedded programming + algorithmic thinking.
+
+---
+
+## 📈 Current Goals
+- Build **deployable SaaS micro-products** from existing GitHub projects  
+- Strengthen **Spring Boot & React full-stack** development  
+- Improve QA automation (Selenium + JUnit)  
+- Prepare for **ISTQB certification**
+
+---
+
+## 📫 Contact
+- 📧 Email: **uguraksahin1903@gmail.com**  
+- 🌐 LinkedIn: **linkedin.com/in/uguraksahin**  
 
