@@ -1,12 +1,6 @@
 👋 Hi, I'm Uğur Akşahin</h1>
 <h3 align="center">Software Developer | QA Engineer | Backend Enthusiast</h3>
 
-<p align="center">
-  <a href="mailto:uguraksahin1903@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/uguraksahin">💼 LinkedIn</a> •
-  <a href="https://github.com/UGURAKSAHIN">🌐 GitHub</a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -71,5 +65,5 @@ Designed and implemented a PID-controlled hardware system using Arduino to stabi
 
 ## 📫 Contact
 - 📧 Email: **uguraksahin1903@gmail.com**  
-- 🌐 LinkedIn: **linkedin.com/in/uguraksahin**  
+- 🌐 LinkedIn: **https://www.linkedin.com/in/uguraksahin**  
 
