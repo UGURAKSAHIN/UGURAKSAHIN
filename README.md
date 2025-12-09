@@ -50,7 +50,7 @@ A modular, extensible backend architecture for e-commerce platforms.
 📌 *Turning into a SaaS-ready backend service*
 
 ➡️ Repo: https://github.com/UGURAKSAHIN/E-Commerce.Application
-➡️ Live API: https://dummyjson.com/
+➡️ Live API: https://dummyjson.com/products
 
 ---
 
