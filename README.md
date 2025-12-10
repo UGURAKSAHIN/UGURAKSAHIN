@@ -1,6 +1,4 @@
-<h1 align="center">👋 Hi, I'm Uğur Akşahin</h1>
-<h3 align="center">Software Developer | QA Engineer | Backend Enthusiast</h3>
-
+# UĞUR AKŞAHİN - Software Developer | QA Engineer | Backend Enthusiast
 
 ---
 
